@@ -1,1 +1,2 @@
-CherryPy==18.5.0
+flask==1.1.2
+gunicorn==20.0.4
