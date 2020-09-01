@@ -14,9 +14,9 @@ def hello_world():
     return {
         "apiversion": "1",
         "author": "berlm",
-        "color": "#888888",  # TODO: Personalize
-        "head": "default",  # TODO: Personalize
-        "tail": "default",  # TODO: Personalize
+        "color": "#ff9900",
+        "head": "smile",
+        "tail": "round-bum",
     }
 
 
